@@ -1,2 +1,2 @@
 # urban_data_science
-Project for Urban Data Science course
+Projeto pessoal para o curso de Urban Data Science do Instituto Cidades Responsivas, turma 3.
